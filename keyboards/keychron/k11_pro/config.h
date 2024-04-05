@@ -84,3 +84,4 @@
 
 /* Factory test keys */
 #define FN_KEY1 MO(4)
+#define DYNAMIC_KEYMAP_MACRO_COUNT 64
