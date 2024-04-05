@@ -79,3 +79,4 @@
 #define FN_KEY_1 MO(4)
 
 #define MATRIX_IO_DELAY 10
+#define DYNAMIC_KEYMAP_MACRO_COUNT 64
